@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,19,24,25&height=200&section=header&text=Chandan%20B%20Krishna&fontSize=52&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%7C%20Gen%20AI%20%7C%20UI%2FUX%20%7C%20Founder%20%40%20AdGrades&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0:0D1117,50:0a3d5c,100:00D1FF&height=200&section=header&text=Chandan%20B%20Krishna&fontSize=52&fontColor=fff&animation=fadeIn&fontAlignY=55&desc=Full%20Stack%20%7C%20Gen%20AI%20%7C%20UI%2FUX%20%7C%20Founder%20%40%20AdGrades&descAlignY=75&descSize=18" />
 
 <div align="center">
 
@@ -131,4 +131,4 @@ Performance marketing across Google, Meta, and LinkedIn. Led A/B testing, CRM au
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,19,24,25&height=120&section=footer&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0:00D1FF,50:0a3d5c,100:0D1117&height=120&section=footer&animation=fadeIn" />
