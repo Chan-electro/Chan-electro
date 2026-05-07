@@ -1,14 +1,18 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,19,24,25&height=200&section=header&text=Chandan%20B%20Krishna&fontSize=52&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%7C%20Gen%20AI%20%7C%20UI%2FUX%20%7C%20Founder%20%40%20AdGrades&descAlignY=58&descSize=18" />
+
 <div align="center">
 
-# Hey, I'm Chandan B Krishna 👋
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&pause=1000&color=00D1FF&center=true&vCenter=true&random=false&width=550&lines=Full+Stack+Developer;Gen+AI+Developer;UI%2FUX+Designer;Founder+%40+AdGrades;Blockchain+%26+ML+Engineer;Digital+Growth+Strategist" alt="Typing SVG" /></a>
 
-**UI/UX Designer · Full Stack Developer · Gen AI Developer · Founder @ AdGrades**
+<br/>
 
-📍 Bangalore, Karnataka &nbsp;|&nbsp; 🎓 B.Tech Electronics & Computer Engineering @ Reva University (2026)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://chandanbk.work)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chandanbk.work@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=Chan-electro&color=00D1FF&style=flat-square&label=Profile+Views)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://chandanbk.work)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:chandanbk.work@gmail.com)
 
 </div>
 
@@ -23,43 +27,19 @@ I build things that grow businesses — from full-stack web apps and AI tools to
 - 🤖 &nbsp;Into Gen AI, blockchain, computer vision, and IoT
 - 📈 &nbsp;3.5x average ROI delivered across client campaigns
 - 🌱 &nbsp;Currently exploring blockchain supply chain + AI in healthcare
+- 🎓 &nbsp;B.Tech Electronics & Computer Engineering @ Reva University (2026)
 
 ---
 
 ## Tech Stack
 
-**Languages**
+<div align="center">
 
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+<img src="https://skillicons.dev/icons?i=ts,js,py,cpp,c,react,nextjs,nodejs,php&theme=dark&perline=9" />
+<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,figma,git,github,vscode,flask,tensorflow,arduino&theme=dark&perline=9" />
 
-**Frameworks & Libraries**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-
-**Tools & Platforms**
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-
-**Databases**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+</div>
 
 ---
 
@@ -83,10 +63,59 @@ I build things that grow businesses — from full-stack web apps and AI tools to
 ## Experience
 
 **🏢 AdGrades — Founder** *(May 2023 – Present)*
-Hybrid marketing + software agency. Built and deployed web platforms, eCommerce stores, and SaaS tools for startups and SMEs. 3.5x average ROI on campaigns. Led teams across dev, design, and growth.
+Hybrid marketing + software agency. Built web platforms, eCommerce stores, and SaaS tools for startups and SMEs. 3.5x average ROI on campaigns. Led teams across dev, design, and growth.
 
 **📊 OS Code Solutions — Digital Growth Lead** *(July 2024 – April 2025)*
 Performance marketing across Google, Meta, and LinkedIn. Led A/B testing, CRM automation, and conversion funnel optimization for multiple clients.
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Chan-electro&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D1FF&icon_color=00D1FF&text_color=C9D1D9&count_private=true&cache_seconds=86400"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chan-electro&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D1FF&text_color=C9D1D9&cache_seconds=86400&langs_count=8"/>
+
+<br/>
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Chan-electro&theme=dark&hide_border=true&background=0D1117&ring=00D1FF&fire=00D1FF&currStreakLabel=00D1FF)
+
+</div>
+
+---
+
+## Activity Graph
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Chan-electro&bg_color=0D1117&color=00D1FF&line=00D1FF&point=ffffff&area=true&area_color=00D1FF&hide_border=true)
+
+</div>
+
+---
+
+## Trophies
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Chan-electro&theme=darkhub&no-frame=true&margin-w=6&column=7)
+
+</div>
+
+---
+
+## Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chan-electro/Chan-electro/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Chan-electro/Chan-electro/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/Chan-electro/Chan-electro/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+</div>
 
 ---
 
@@ -102,24 +131,4 @@ Performance marketing across Google, Meta, and LinkedIn. Led A/B testing, CRM au
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-![Chandan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chan-electro&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D1FF&icon_color=00D1FF&text_color=C9D1D9&count_private=true&cache_seconds=86400)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chan-electro&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D1FF&text_color=C9D1D9&cache_seconds=86400&langs_count=8)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Chan-electro&theme=dark&hide_border=true&background=0D1117&ring=00D1FF&fire=00D1FF&currStreakLabel=00D1FF)
-
-</div>
-
----
-
-<div align="center">
-
-**Let's build something great.**
-
-[![Email](https://img.shields.io/badge/chandanbk.work@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chandanbk.work@gmail.com)
-
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,19,24,25&height=120&section=footer&animation=fadeIn" />
