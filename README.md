@@ -106,9 +106,11 @@ Performance marketing across Google, Meta, and LinkedIn. Led A/B testing, CRM au
 
 <div align="center">
 
-![Chandan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chan-electro&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D1FF&icon_color=00D1FF&text_color=C9D1D9)
+![Chandan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chan-electro&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D1FF&icon_color=00D1FF&text_color=C9D1D9&count_private=true&cache_seconds=86400)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chan-electro&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D1FF&text_color=C9D1D9)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chan-electro&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D1FF&text_color=C9D1D9&cache_seconds=86400&langs_count=8)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Chan-electro&theme=dark&hide_border=true&background=0D1117&ring=00D1FF&fire=00D1FF&currStreakLabel=00D1FF)
 
 </div>
 
